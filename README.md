@@ -241,6 +241,7 @@ Zenmap was then configured to scan the appropriate subnet using **Ping Scan**.
 ```text
 10.0.0.1
 10.0.0.2
+```
 
 The example assessment also identified corresponding MAC-address information and generated a network topology using Zenmap.
 
