@@ -356,22 +356,6 @@ Most importantly, I learned that professional cybersecurity work is not only abo
 
 # 📸 9. Evidence & Documentation
 
-All screenshots collected during the practical exercises should be maintained in the repository's `screenshots/` directory.
-
-Recommended evidence structure:
-
-```text
-screenshots/
-├── 01_whois.png
-├── 02_whatweb.png
-├── 03_nslookup.png
-├── 04_curl.png
-├── 05_wafw00f.png
-├── 06_dnsrecon.png
-├── 07_zenmap.png
-└── 08_zenmap_topology.png
-```
-
 ### Evidence Coverage
 
 | **Evidence**             | **Activity**                                     |
